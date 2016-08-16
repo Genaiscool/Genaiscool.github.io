@@ -45,7 +45,7 @@ img{
 }
 
 .textbox {
-    width:70%;
+    width:0%;
     color: white;
     font-size: 110%;
     background:gray;
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color: rgb(8, 200, 0);
     color:  rgb(215, 206, 199);
 }
 
